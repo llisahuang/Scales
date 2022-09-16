@@ -11,7 +11,7 @@ void draw () {
     for (int x = -18; x <= 528; x+= 55)
     {
       if(shift == true)
-        scale (x-32,y);
+        scale (x-29,y);
       else 
         scale (x, y);
     }
